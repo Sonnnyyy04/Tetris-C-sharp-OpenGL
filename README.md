@@ -1,2 +1,1 @@
-Tetris-C-sharp-OpenGL
-Tertis with OpenGL
+Tetris C sharp with OpenGL
